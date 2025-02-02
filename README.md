@@ -13,13 +13,9 @@ This project is an **business analytics solution** that analyzes pizza sales dat
 ✅ **KPI Analysis with SQL:** Queried key metrics such as total sales, revenue, and pizza quantity by size and time.  
 ✅ **Power BI Dashboard:** Built an interactive dashboard to visualize sales trends, peak hours, and top-selling pizzas.  
 
-
-## 📷 Dashboard Preview
-![Power BI Dashboard](dashboard_screenshot.png) *(Replace with actual screenshot)*
-
 ## 🚀 How to Use
-1. **Data Cleaning:** Run `clean_data.py` to preprocess the dataset.
-2. **Database Setup:** Import the cleaned dataset into MySQL and run the queries from `pizza_sales_kpi.sql`.
+1. **Data Cleaning:** Run `"pizza_sales_excel_file.xlsx"` to preprocess the dataset.
+2. **Database Setup:** Import the cleaned dataset into MySQL and run the queries from `"import_pizza_sales.sql"`,`"pizza_sales_analysis.sql"`,`pizza_sales_kpi.sql`,.
 3. **Dashboard Analysis:** Open `pizza_sales.pbix` in Power BI to explore interactive visualizations.
 
 ## 📌 Future Improvements
